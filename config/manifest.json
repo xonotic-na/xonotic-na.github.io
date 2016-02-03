@@ -45,6 +45,16 @@
                 "bloodrun",
                 "mvdm11b"
             ]
+        },
+        {
+            "id": "dallaspug",
+            "address": "dallas.xonotic.co",
+            "port": "26009",
+            "game": "xonotic",
+            "mapList": [
+                "bloodrun",
+                "mvdm11b"
+            ]
         }
     ],
     "pages": [
