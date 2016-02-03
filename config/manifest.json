@@ -67,12 +67,6 @@
             "icon": "list"
         },
         {
-            "id": "about",
-            "title": "About",
-            "content": "about",
-            "icon": "info-circle"
-        },
-        {
             "id": "news",
             "title": "News",
             "content": "news",
