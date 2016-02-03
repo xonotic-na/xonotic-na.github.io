@@ -1,23 +1,9 @@
-## About This Server
+## About Xonotic North America
 
-### Weekly Events
+![Alt text](resources/images/xonotic-na-logo.png)
 
-Sunday Night Piñata mode!
+This webpage is intended to assist in providing a common place for resources that interest [Xonotic](http://xonotic.org) players of North America. In the future, I hope we can gather together a list of popular maps and servers we like to play on together and perhaps start self-organizing pick-up matches.
 
-### Staff
+If you're interested in helping out, please find us in #xonotic.na on irc.quakenet.org or click the **chat** page.
 
-The fastest way to contact us, is by IRC, the following players can are admins and moderators
-
-* -z-
-* Mario
-* BuddyFriendGuy
-
-### Voting
-
-This server is a voteable server, the following votes are enabled:
-
-```
-bots, nobots, nextmap, allready, botskill, autoreturns, manualreturns
-```
-
-You can vote with the console by typing: `vcall <vote>`
+Sorry this information is the same as the first post right now :)
