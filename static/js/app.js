@@ -580,6 +580,7 @@ $(document).ready(function() {
           return ret;
         });
 
+        // keeping these helpers in case they are needed again soon
         Handlebars.registerHelper('grouped_each', function(every, context, options) {
             var out = "", subcontext = [], i;
             if (context && context.length > 0) {
